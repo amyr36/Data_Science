@@ -1,0 +1,55 @@
+PatientID,FirstName,LastName,Age,Gender,AdmissionDate,DischargeDate,Department,Diagnosis,TreatmentCost,DoctorName,InsuranceProvider,RoomNumber
+1,Steven,Taylor,21,Female,2025-07-08,2025-07-12,Neurology,Influenza,34158.27,Dr. Irving,Blue Cross,176
+2,Elizabeth,Chen,21,Male,2025-07-07,2025-07-11,Radiology,Hip Replacement,2300.26,Dr. Diaz,Humana,129
+3,Andrew,Rivera,53,Male,2025-07-25,2025-08-07,Neurology,Migraine,17672.28,Dr. Carter,UnitedHealth,198
+4,Emily,Wilson,29,Female,2025-07-04,2025-07-10,General Surgery,Hip Replacement,13961.52,Dr. Adams,None,169
+5,Emily,Allen,28,Female,2025-07-27,2025-08-07,Psychiatry,Asthma,29290.26,Dr. Baker,Medicare,185
+6,Matthew,Edwards,55,Male,2025-07-28,2025-08-01,Orthopedics,Pneumonia,14620.71,Dr. Flores,Aetna,148
+7,Joseph,Moore,52,Male,2025-07-20,2025-07-31,Neurology,Kidney Stones,36727.21,Dr. Carter,None,149
+8,Isabella,Carter,89,Male,2025-07-22,2025-07-28,Cardiology,Knee Replacement,41268.33,Dr. Flores,Humana,135
+9,David,Moore,90,Female,2025-07-07,2025-07-18,Emergency,Pneumonia,44349.47,Dr. Harris,Aetna,134
+10,Robert,Thompson,89,Female,2025-07-24,2025-08-03,General Medicine,Gallbladder Surgery,20570.62,Dr. Diaz,Aetna,166
+11,Alexa,Davis,24,Male,2025-07-05,2025-07-16,Neurology,Migraine,30224.04,Dr. Green,Humana,177
+12,Sofia,Adams,50,Male,2025-07-22,2025-08-03,Orthopedics,Kidney Stones,37793.01,Dr. Flores,Blue Cross,138
+13,Elizabeth,Anderson,76,Male,2025-07-31,2025-08-12,Oncology,Depression,38336.15,Dr. Irving,Blue Cross,181
+14,Mia,Carter,82,Male,2025-07-05,2025-07-11,Neurology,Kidney Stones,47721.49,Dr. Irving,Medicare,177
+15,Paul,Flores,20,Male,2025-07-30,2025-08-05,Oncology,Knee Replacement,3838.33,Dr. Jackson,Blue Cross,111
+16,Timothy,Flores,26,Male,2025-07-05,2025-07-16,Emergency,Kidney Stones,9091.22,Dr. Irving,Humana,128
+17,Kevin,Cruz,43,Female,2025-07-13,2025-07-24,General Surgery,Fractured Leg,45081.09,Dr. Harris,Blue Cross,132
+18,Matthew,Brown,61,Male,2025-07-19,2025-07-28,Pediatrics,Gallbladder Surgery,11790.65,Dr. Baker,Medicare,130
+19,David,Chen,60,Male,2025-07-17,2025-07-21,Oncology,Anxiety Disorder,11497.6,Dr. Carter,None,132
+20,Ryan,Wright,42,Male,2025-07-04,2025-07-15,General Medicine,Asthma,21755.35,Dr. Harris,Medicare,187
+21,Ella,Roberts,30,Male,2025-07-13,2025-07-25,General Surgery,Influenza,13184.16,Dr. Diaz,None,118
+22,Elizabeth,Thomas,53,Female,2025-07-08,2025-07-22,Orthopedics,Fractured Leg,40593.09,Dr. Irving,Blue Cross,107
+23,Ella,Nelson,19,Male,2025-07-30,2025-08-12,Pediatrics,Appendicitis,20914.29,Dr. Harris,UnitedHealth,152
+24,Sarah,Anderson,66,Male,2025-07-13,2025-07-18,Emergency,Epilepsy,21727.37,Dr. Irving,None,120
+25,Daniel,Harris,45,Male,2025-07-19,2025-07-31,Radiology,Fractured Arm,37650.8,Dr. Adams,Medicare,175
+26,Ryan,Green,85,Male,2025-07-02,2025-07-11,Orthopedics,Appendicitis,4357.55,Dr. Baker,UnitedHealth,152
+27,Emily,Hall,49,Male,2025-07-20,2025-07-22,General Medicine,Gallbladder Surgery,28696.12,Dr. Flores,Cigna,127
+28,Kenneth,Turner,58,Male,2025-07-09,2025-07-16,Neurology,Epilepsy,23404.0,Dr. Baker,Medicare,159
+29,Zoey,Hall,30,Male,2025-07-18,2025-07-22,Radiology,Diabetes,7490.37,Dr. Flores,Blue Cross,132
+30,Ava,Harris,38,Female,2025-07-27,2025-08-05,Oncology,Hip Replacement,49208.81,Dr. Irving,Medicare,186
+31,Lily,Clark,31,Male,2025-07-09,2025-07-11,Orthopedics,Kidney Stones,8616.95,Dr. Evans,UnitedHealth,192
+32,Emily,Moore,51,Female,2025-07-09,2025-07-24,Cardiology,Stroke,32079.94,Dr. Evans,Medicare,101
+33,Emily,Edwards,34,Female,2025-07-06,2025-07-18,Emergency,Kidney Stones,35577.7,Dr. Irving,Medicare,115
+34,David,Evans,37,Male,2025-07-27,2025-08-02,Psychiatry,Kidney Stones,8256.6,Dr. Carter,Medicare,140
+35,Ava,Chen,63,Male,2025-07-22,2025-07-26,Orthopedics,Asthma,39225.7,Dr. Green,Aetna,131
+36,Christopher,Thomas,70,Male,2025-07-06,2025-07-18,General Surgery,Migraine,40309.52,Dr. Diaz,Cigna,121
+37,Ronald,Wilson,66,Male,2025-07-28,2025-08-05,Pediatrics,Angina,41012.74,Dr. Harris,Kaiser,140
+38,Matthew,Jackson,21,Male,2025-07-13,2025-07-19,Oncology,Stroke,48377.57,Dr. Evans,Kaiser,183
+39,Nicholas,King,86,Female,2025-07-31,2025-08-01,Orthopedics,Diabetes,9749.82,Dr. Evans,Medicare,114
+40,George,Scott,62,Female,2025-07-14,2025-07-24,Radiology,Influenza,19874.58,Dr. Jackson,UnitedHealth,133
+41,Michael,Turner,73,Male,2025-07-17,2025-08-01,Radiology,Angina,18846.85,Dr. Baker,Kaiser,180
+42,Paul,Gomez,33,Female,2025-07-17,2025-07-22,General Medicine,Hypertension,20717.62,Dr. Evans,Aetna,125
+43,Charles,Gomez,66,Male,2025-07-20,2025-07-30,Oncology,Pneumonia,27848.92,Dr. Adams,Cigna,137
+44,Olivia,Scott,59,Female,2025-07-15,2025-07-23,Pediatrics,Depression,24186.12,Dr. Carter,Blue Cross,137
+45,Nicholas,Gomez,60,Male,2025-07-27,2025-08-09,Pediatrics,Epilepsy,12007.39,Dr. Diaz,Aetna,104
+46,Michael,Thompson,78,Male,2025-07-15,2025-07-22,Psychiatry,Angina,36198.95,Dr. Green,None,152
+47,Sophia,Martin,18,Male,2025-07-25,2025-08-01,Pediatrics,Appendicitis,40401.38,Dr. Irving,None,107
+48,Lily,Thompson,33,Female,2025-07-05,2025-07-18,Emergency,Depression,49406.73,Dr. Jackson,Kaiser,197
+49,Andrew,Mitchell,82,Female,2025-07-27,2025-08-11,Radiology,Fractured Leg,44963.2,Dr. Harris,None,134
+50,Jason,Thompson,53,Female,2025-07-21,2025-07-25,Oncology,Fractured Leg,4796.68,Dr. Evans,UnitedHealth,135
+51,Emily,Lewis,87,Male,2025-07-05,2025-07-08,Pediatrics,Pneumonia,35003.54,Dr. Diaz,Blue Cross,154
+52,Charles,Robinson,87,Female,2025-07-14,2025-07-15,Pediatrics,Migraine,20084.36,Dr. Jackson,Medicare,198
+53,Brian,Allen,79,Male,2025-07-31,2025-08-06,Oncology,Pneumonia,42818.95,Dr. Green,UnitedHealth,163
+54,Matthew,Lopez,73,Female,2025-07-01,2025-07-08,General Surgery,Pneumonia,36484.89,Dr.
